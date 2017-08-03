@@ -1,4 +1,4 @@
-## [杜少博客](http://www.takozhang.cn)
+## [人类前端精华](http://www.takozhang.cn)
 
 > **个人爱好：工作、学习、锻炼、旅行。**
 
