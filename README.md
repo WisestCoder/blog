@@ -6,6 +6,11 @@
 
 ## 2017
 **人生的真理，只是藏在平淡无味之中。**
+https://github.com/dushao103500/js-in-depath
+### December
+*烛龙栖寒门，光曜犹旦开。日月照之何不及此，唯有北风号怒天上来。。*
+
+* December 13, 2017 **»** [js深入理解](https://github.com/dushao103500/js-in-depath)
 
 ### September
 *九月西风兴，月冷霜华凝。思君秋夜长，一夜魂九升。*
