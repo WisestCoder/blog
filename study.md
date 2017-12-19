@@ -16,6 +16,6 @@
 ## babel
 - [Babel 使用指南](https://shenbao.github.io/ishehui/html/React/Babel%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html)
 
-- [Babel 插件手册](https://github.com/thejameskyle/babel-handbook/blob/master/translations/zh-Hans/plugin-handbook.md#toc-visitors)
+- [Babel 插件手册](https://github.com/thejameskyle/babel-handbook/blob/master/translations/zh-Hans/plugin-handbook.md)
 
 - [Runtime transform转换器](https://github.com/dushao103500/blog/blob/master/babel/runtime.md)
