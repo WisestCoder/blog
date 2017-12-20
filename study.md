@@ -5,7 +5,7 @@
 
 - [switch...case && if...else效率比较和优化](https://github.com/dushao103500/blog/blob/master/js/judgeCompare.md)
 
-- [before和after]()
+- [before和after](https://github.com/dushao103500/blog/blob/master/js/beforeAndAfter.md)
 
 - [延时执行函数]()
 
