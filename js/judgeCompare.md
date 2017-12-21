@@ -4,11 +4,11 @@
 
 维基百科上`switch_statement`的介绍，关于它的Compilation:
 
-![](https://github.com/dushao103500/js-in-depath/blob/master/images/switch_statement.png)
+![](https://github.com/dushao103500/blog/blob/master/js/images/switch_statement.png)
 
 在编译器中，它会将一系列的语句编译成分支表，然后在判断时，无需像if-else语句一样一个个进行逻辑判断，而是通过在case里的值，对值进行搜索，从而达到对搜索的优化。
 
-![](https://github.com/dushao103500/js-in-depath/blob/master/images/zhihu_switch.png)
+![](https://github.com/dushao103500/blog/blob/master/js/images/zhihu_switch.png)
 
 > 事实证明，大多数情况下switch比if-else允许得要快，但只有当数量条件很大时，才快得明显。当条件增加的时候，if-else性能负担增加的程度比switch明显得多。因此我们倾向于在条件数量比较少的情况下使用if-else，而在条件数量较大的时候使用switch，出于性能考虑，这是合理的。--《高性能javascript》
 
