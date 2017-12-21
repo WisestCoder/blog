@@ -19,3 +19,6 @@
 - [Babel 插件手册](https://github.com/thejameskyle/babel-handbook/blob/master/translations/zh-Hans/plugin-handbook.md)
 
 - [Runtime transform转换器](https://github.com/dushao103500/blog/blob/master/babel/runtime.md)
+
+## react
+- [PureRenderMixin](https://github.com/dushao103500/blog/blob/master/react/pureRenderMixin.md)
