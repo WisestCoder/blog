@@ -20,6 +20,10 @@
 
 - [Runtime transform转换器](https://github.com/dushao103500/blog/blob/master/babel/runtime.md)
 
+- [Babel polyfill](https://github.com/dushao103500/blog/blob/master/babel/polyfill.md)
+
+- [Babel-preset-es2015](https://github.com/dushao103500/blog/blob/master/babel/babel_preset_es2015.md)
+
 ## react
 - [PureRenderMixin](https://github.com/dushao103500/blog/blob/master/react/pureRenderMixin.md)
 - [Immutable.js](https://github.com/dushao103500/blog/blob/master/react/immutable.md)
