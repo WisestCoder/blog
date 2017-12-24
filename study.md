@@ -9,9 +9,9 @@
 
 - [延时执行函数](https://github.com/dushao103500/blog/blob/master/js/delay.md)
 
-- [ES5中的bind实现]()
+- [ES5中的bind实现](https://github.com/dushao103500/blog/blob/master/js/delay.md)
 
-- [扁平化数组的几种方式](https://github.com/dushao103500/blog/blob/master/js/arrayToOne.md)
+- [扁平化数组的几种方式](https://github.com/dushao103500/blog/blob/master/js/es5_bind.md)
 
 ## babel
 - [Babel 使用指南](https://shenbao.github.io/ishehui/html/React/Babel%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html)
