@@ -5,11 +5,11 @@
 
 - [switch...case && if...else效率比较和优化](https://github.com/dushao103500/blog/blob/master/js/judgeCompare.md)
 
-- [before和after](https://github.com/dushao103500/blog/blob/master/js/beforeAndAfter.md)
+- [Before和After函数](https://github.com/dushao103500/blog/blob/master/js/beforeAndAfter.md)
 
-- [延时执行函数]()
+- [延时执行函数](https://github.com/dushao103500/blog/blob/master/js/delay.md)
 
-- [ES5中的bind]()
+- [ES5中的bind实现]()
 
 - [扁平化数组的几种方式](https://github.com/dushao103500/blog/blob/master/js/arrayToOne.md)
 
@@ -22,4 +22,4 @@
 
 ## react
 - [PureRenderMixin](https://github.com/dushao103500/blog/blob/master/react/pureRenderMixin.md)
-- [immutable.js](https://github.com/dushao103500/blog/blob/master/react/immutable.md)
+- [Immutable.js](https://github.com/dushao103500/blog/blob/master/react/immutable.md)
