@@ -24,6 +24,7 @@ class FooComponent extends React.Component {
 PureRenderMixin的原理就是它扩展了shouldComponentUpdate，在shouldComponentUpdate内它比较当前的props、state和接下来的props、state，当两者相等的时候返回false，这样组件就不会进行虚拟DOM的diff。
 
 **这里需要注意**
+
 PureRenderMixin内进行的仅仅是浅比较对象。如果对象包含了复杂的数据结构，深层次的差异可能会产生误判。仅用于拥有简单props和state的组件。
 
 **源码**

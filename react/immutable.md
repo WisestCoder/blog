@@ -22,6 +22,7 @@ Immutable 实现的原理是 Persistent Data Structure（持久化数据结构�
 - immutable对象不同于原生对象，所以容易与原生对象混淆。 （定义immutable对象时尽量使用不同的命名规则）
 
 **与React搭配使用，Pure Render**
+
 React在进行render之前，会调用shouldComponentUpdate生命周期，所以可以在这个生命周期中避免不必要的渲染。
 ```javascript
 import { is } from 'immutable';
