@@ -31,3 +31,20 @@ var snakeCase = function (word) {
 var snakeCase = compose(replace(/\s+/ig, '_'), toLowerCase);
 ```
 pointfree 模式能够帮助我们减少不必要的命名，让代码保持简洁和通用。
+
+**compose实现**
+下面是compose函数的实现代码。思路就是先把传入的函数都缓存起来，然后在传入数据的时候，再挨个的使用apply执行函数， 上一个函数的输出数据，作为下一个函数的输入数据。
+
+compose遵循的是从右向左运行，而不是由内而外运行。也就是说compose是从最后一个函数开始执行。
+```javascript
+var compose = function() {
+  var args = arguments;
+  var start = args.length - 1;
+  return function() {
+    var i = start;
+    var result = args[start].apply(this, arguments);
+    while (i--) result = args[i].call(this, result);
+    return result;
+  };
+};
+```
