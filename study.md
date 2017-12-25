@@ -1,4 +1,4 @@
-## js深入理解
+## js
 - [严格模式的意义](https://github.com/dushao103500/blog/blob/master/js/strict.md)
 
 - [数据类型判断](https://github.com/dushao103500/blog/blob/master/js//typeCheck.md)
@@ -12,6 +12,8 @@
 - [ES5中的bind实现](https://github.com/dushao103500/blog/blob/master/js/es5_bind.md)
 
 - [扁平化数组的几种方式](https://github.com/dushao103500/blog/blob/master/js/arrayToOne.md)
+
+- [柯里化（curry）](https://github.com/dushao103500/blog/blob/master/js/curry.md)
 
 ## babel
 - [Babel 使用指南](https://shenbao.github.io/ishehui/html/React/Babel%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html)
