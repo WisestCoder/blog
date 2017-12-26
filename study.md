@@ -33,3 +33,7 @@
 ## react
 - [PureRenderMixin](https://github.com/dushao103500/blog/blob/master/react/pureRenderMixin.md)
 - [Immutable.js](https://github.com/dushao103500/blog/blob/master/react/immutable.md)
+
+## rxjs
+
+- [普通的观察者模式与Rxjs中Observable的不同](https://github.com/dushao103500/blog/blob/master/rxjs/compare_observable.md)
