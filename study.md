@@ -33,6 +33,7 @@
 ## react
 - [PureRenderMixin](https://github.com/dushao103500/blog/blob/master/react/pureRenderMixin.md)
 - [Immutable.js](https://github.com/dushao103500/blog/blob/master/react/immutable.md)
+- [使用Render props代替HOC](https://github.com/dushao103500/blog/blob/master/react/renderProps.md)
 
 ## rxjs
 
