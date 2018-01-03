@@ -36,5 +36,8 @@
 - [使用Render props代替HOC](https://github.com/dushao103500/blog/blob/master/react/renderProps.md)
 
 ## rxjs
-
 - [普通的观察者模式与Rxjs中Observable的不同](https://github.com/dushao103500/blog/blob/master/rxjs/compare_observable.md)
+
+## node
+- [node下的几种文件路径处理](https://github.com/dushao103500/blog/blob/master/node/nodePath.md)
+
