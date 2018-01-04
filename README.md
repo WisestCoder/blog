@@ -4,13 +4,10 @@
 
 > **我的座右铭：我随影而来，随影而去。**
 
+[工作笔记 && 学习笔记（持续不断更新中...）](https://github.com/dushao103500/blog/blob/master/study.md)
+
 ## 2017
 **人生的真理，只是藏在平淡无味之中。**
-
-### December
-*烛龙栖寒门，光曜犹旦开。日月照之何不及此，唯有北风号怒天上来。。*
-
-* December 13, 2017 **»** [工作笔记 && 学习笔记](https://github.com/dushao103500/blog/blob/master/study.md)
 
 ### September
 *九月西风兴，月冷霜华凝。思君秋夜长，一夜魂九升。*
