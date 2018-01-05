@@ -41,6 +41,9 @@
 
 - [使用Render props代替HOC](https://github.com/dushao103500/blog/blob/master/react/renderProps.md)
 
+## webpack
+- [Webpack2引入的Tree Shaking技术](https://github.com/dushao103500/blog/blob/master/webpack/treeShaking.md)
+
 ## rxjs
 - [普通的观察者模式与Rxjs中Observable的不同](https://github.com/dushao103500/blog/blob/master/rxjs/compare_observable.md)
 
