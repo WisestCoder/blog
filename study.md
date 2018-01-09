@@ -41,6 +41,8 @@
 
 - [使用Render props代替HOC](https://github.com/dushao103500/blog/blob/master/react/renderProps.md)
 
+- [5种处理this的方法](https://github.com/dushao103500/blog/blob/master/react/this_handle_in_react.md)
+
 ## webpack
 - [Webpack2引入的Tree Shaking技术](https://github.com/dushao103500/blog/blob/master/webpack/treeShaking.md)
 
