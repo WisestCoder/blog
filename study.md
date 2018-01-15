@@ -49,6 +49,9 @@
 ## rxjs
 - [普通的观察者模式与Rxjs中Observable的不同](https://github.com/dushao103500/blog/blob/master/rxjs/compare_observable.md)
 
+## git
+- [git常用命令](https://github.com/dushao103500/blog/blob/master/git/command.md)
+
 ## node
 - [node下的几种文件路径处理](https://github.com/dushao103500/blog/blob/master/node/nodePath.md)
 
