@@ -19,7 +19,9 @@
 
 - [memoization缓存技术](https://github.com/dushao103500/blog/blob/master/js/memoization.md)
 
-- [UMD规范](https://github.com/dushao103500/blog/blob/master/js/umd.md)
+- [AMD、CMD、CommonJs、UMD不同](https://github.com/dushao103500/blog/blob/master/js/module.md)
+
+- [UMD规范实现](https://github.com/dushao103500/blog/blob/master/js/umd.md)
 
 - [console调试技巧](https://github.com/dushao103500/blog/blob/master/js/console.md)
 
@@ -56,4 +58,6 @@
 
 ## node
 - [node下的几种文件路径处理](https://github.com/dushao103500/blog/blob/master/node/nodePath.md)
+
+- [node模块讲解](https://github.com/dushao103500/blog/blob/master/node/nodeCollect.md)
 
