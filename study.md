@@ -27,6 +27,8 @@
 
 - [Promise/A+规范](https://github.com/dushao103500/blog/blob/master/js/promise_rule.md)
 
+- [继承的6种方式](https://github.com/dushao103500/blog/blob/master/js/inherit.md)
+
 ## babel
 - [Babel 使用指南](https://shenbao.github.io/ishehui/html/React/Babel%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html)
 
