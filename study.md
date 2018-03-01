@@ -69,3 +69,8 @@
 
 - [npm link命令解析](https://github.com/dushao103500/blog/blob/master/node/npmLink.md)
 
+## 其他
+- [缓存算法](https://github.com/dushao103500/blog/blob/master/other/cacheAlgorithm.md)
+
+- [跨域详解](https://github.com/dushao103500/blog/blob/master/other/crossDomain.md)
+
