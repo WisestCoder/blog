@@ -19,4 +19,7 @@
   - children属性（IE9以后）
     与childNodes不同的地方在于：children只包含元素子节点(IE8及之前的版本可能会包含注释节点)。
 2.如何在节点之间任意移动？
-  根据上面提到的属性值移动就好了（感觉这句话水水的
+  - 节点A放在childNodes末尾：`someNode.a(A)`
+  - 节点A放在childNodes某个特定位置：`someNode。insertBefore(A,null)`
+  - 替换第一个节点：`someNode.replaceChild(A, someNode.firstChild)`
+  - 移除末尾节点：`someNode.removeChild(someNode.lastChild)`
