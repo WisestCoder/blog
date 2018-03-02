@@ -31,6 +31,9 @@
 
 - [js装逼技巧](https://github.com/dushao103500/blog/blob/master/js/jsZhuangBi.md)
 
+## dom
+- [两个节点之间可能存在哪些关系以及如何在节点之间任意移动](https://github.com/dushao103500/blog/blob/master/dom/domRelation.md)
+
 ## babel
 - [Babel 使用指南](https://shenbao.github.io/ishehui/html/React/Babel%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html)
 
