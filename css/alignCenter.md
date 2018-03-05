@@ -15,7 +15,7 @@ div {
 ```
 
 ```css
-未知容器的宽高，利用`transform`属性
+未知容器的宽高，利用 transform 属性
 
 div {
   position: absolute;		/* 相对定位或绝对定位均可 */
@@ -29,7 +29,7 @@ div {
 ```
 
 ```css
-利用`flex`布局
+利用 flex 布局
 实际使用时应考虑兼容性
 
 .container {
@@ -45,7 +45,7 @@ div {
 ```
 
 ```css
-利用`vertical-align`
+利用 vertical-align
 
 div {
   display: table-cell;
