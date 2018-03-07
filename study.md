@@ -34,6 +34,8 @@
 
 - [js装逼技巧](https://github.com/dushao103500/blog/blob/master/js/jsZhuangBi.md)
 
+- [Object.assign详解](https://github.com/dushao103500/blog/blob/master/js/objectAssign.md)
+
 ## dom
 - [两个节点之间可能存在哪些关系以及如何在节点之间任意移动](https://github.com/dushao103500/blog/blob/master/dom/domRelation.md)
 
