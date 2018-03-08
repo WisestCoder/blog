@@ -77,10 +77,14 @@
 
 - [npm link命令解析](https://github.com/dushao103500/blog/blob/master/node/npmLink.md)
 
+- [怎么编写一个node静态资源服务器](https://github.com/dushao103500/blog/blob/master/node/staticServer.md)
+
 ## 其他
 - [缓存算法](https://github.com/dushao103500/blog/blob/master/others/cacheAlgorithm.md)
 
 - [跨域详解](https://github.com/dushao103500/blog/blob/master/others/crossDomain.md)
 
 - [内存泄露](https://github.com/dushao103500/blog/blob/master/others/memoryLeak.md)
+
+- [如何实现不同标签页之间的通信](https://github.com/dushao103500/blog/blob/master/others/tabComm.md)
 
