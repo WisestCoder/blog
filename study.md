@@ -36,6 +36,8 @@
 
 - [Object.assign详解](https://github.com/dushao103500/blog/blob/master/js/objectAssign.md)
 
+- [promise实现](https://github.com/dushao103500/blog/blob/master/js/promise.md)
+
 ## dom
 - [两个节点之间可能存在哪些关系以及如何在节点之间任意移动](https://github.com/dushao103500/blog/blob/master/dom/domRelation.md)
 
@@ -51,6 +53,8 @@
 - [Babel-preset-es2015](https://github.com/dushao103500/blog/blob/master/babel/babel_preset_es2015.md)
 
 ## react
+- [react开发注意事项](https://github.com/dushao103500/blog/blob/master/react/attention.md)
+
 - [PureRenderMixin](https://github.com/dushao103500/blog/blob/master/react/pureRenderMixin.md)
 
 - [Immutable.js](https://github.com/dushao103500/blog/blob/master/react/immutable.md)
