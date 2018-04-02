@@ -38,6 +38,8 @@
 
 - [promise实现](https://github.com/dushao103500/blog/blob/master/js/promise.md)
 
+- [Object.defineProperty用法详解](https://github.com/dushao103500/blog/blob/master/js/object_defineProperty.md)
+
 ## dom
 - [两个节点之间可能存在哪些关系以及如何在节点之间任意移动](https://github.com/dushao103500/blog/blob/master/dom/domRelation.md)
 
