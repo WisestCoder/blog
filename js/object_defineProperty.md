@@ -28,10 +28,10 @@
 
 描述符可同时具有的键值：
 
-|configurable | enumerable	| value	| writable | get	| set
----     |     ---    |  ---  |   ---    |  --- | ---  |   ---
-数据描述符	   |  Yes	      |  Yes  |	  Yes	   |  Yes	|  No	 | No | ---
-存取描述符 |	Yes	 | Yes| 	No| 	No |	Yes	| Yes| ---
+|  | configurable | enumerable	| value	| writable | get	| set
+| ---------- | -----------| ---------- | -----------| ---------- | -----------| -----------|
+| 数据描述符 | Yes | Yes | Yes | Yes | No | No | 
+| 存取描述符 | Yes | Yes | No | No | Yes| Yes |
 
 **如果一个描述符不具有value,writable,get 和 set 任意一个关键字，那么它将被认为是一个数据描述符。如果一个描述符同时有(value或writable)和(get或set)关键字，将会产生一个异常。**
 
