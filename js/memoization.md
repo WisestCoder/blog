@@ -26,7 +26,7 @@ function startFibonacci(count) {
 
 经过测试，发现随着传入的N值越来越大，计算量也呈现为指数增长，如图：
 
-![](https://github.com/dushao103500/blog/blob/master/js/images/memoization.png)
+![](https://github.com/wisestcoder/blog/blob/master/js/images/memoization.png)
 
 接下来我们使用memoization技术进行改造
 ```javascript
@@ -57,7 +57,7 @@ function startFibonacci(count) {
 ```
 
 测试结果如图：
-![](https://github.com/dushao103500/blog/blob/master/js/images/memoization2.png)
+![](https://github.com/wisestcoder/blog/blob/master/js/images/memoization2.png)
 
 效果显著！
 

@@ -56,7 +56,7 @@ class Test extends React.Component {
 }
 ```
 结果如图：
-![](https://github.com/dushao103500/blog/blob/master/react/images/fourImmutable.png)
+![](https://github.com/wisestcoder/blog/blob/master/react/images/fourImmutable.png)
 
 可见操作直接操作`this.state`的后果是非常严重的。
 

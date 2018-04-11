@@ -4,7 +4,7 @@ Tree Shaking是`Rollup.js`的作者提出来的，换句话说就是消除 unuse
 
 这个功能能够通过基于ES6 modules的静态特性做检测来找出未使用的代码。然后配合uglifyjs把无用代码“筛选”掉。
 
-代码地址：[webpack2-tree-shaking](https://github.com/dushao103500/webpack2-tree-shaking)
+代码地址：[webpack2-tree-shaking](https://github.com/wisestcoder/webpack2-tree-shaking)
 
 比如在如下场景下：
 ```javascript
@@ -33,6 +33,6 @@ const a = bar();
 
 `npm run build`后输出如下：
 
-![](https://github.com/dushao103500/blog/blob/master/webpack/images/treeShaking.png)
+![](https://github.com/wisestcoder/blog/blob/master/webpack/images/treeShaking.png)
 
 我们再输入`npm run build2`对代码进行压缩，发现所有标记了unused的代码段全部舍弃了。

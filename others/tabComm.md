@@ -26,4 +26,4 @@ setInterval(function() {
 
 共享进程可以连接到多个不同的同域页面，从而进行多个页面之间的通信。
 
-[demo地址](https://github.com/dushao103500/sharedworker-demo)
+[demo地址](https://github.com/wisestcoder/sharedworker-demo)

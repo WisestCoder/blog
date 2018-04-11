@@ -2,7 +2,7 @@
 
 #### git常用命令流程图
 
-![](https://github.com/dushao103500/blog/blob/master/git/images/gitflow.png)
+![](https://github.com/wisestcoder/blog/blob/master/git/images/gitflow.png)
 
 #### 全命令
 

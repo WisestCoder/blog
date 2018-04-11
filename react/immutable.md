@@ -1,6 +1,6 @@
 ### immutable.js
 
-![](https://github.com/dushao103500/blog/blob/master/react/images/immutable.gif)
+![](https://github.com/wisestcoder/blog/blob/master/react/images/immutable.gif)
 
 Immutable Data 就是一旦创建，就不能再被更改的数据。对immutable对象的任何修改或添加删除操作都会返回一个新的immutable对象。
 
