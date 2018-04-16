@@ -148,3 +148,5 @@ cleanThemeJsWebpackPlugin.prototype.apply = function(compiler) {
 ```
 
 以上代码就能实现一个简单的多皮肤配置，代码写的很乱，多多包涵~
+
+最后附上项目地址：[https://github.com/WisestCoder/react-skin/tree/master](https://github.com/WisestCoder/react-skin/tree/master)
