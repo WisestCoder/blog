@@ -67,6 +67,8 @@
 
 - [5种处理this的方法](https://github.com/wisestcoder/blog/blob/master/react/this_handle_in_react.md)
 
+- [react实现多皮肤管理](https://github.com/wisestcoder/blog/blob/master/react/multipleSkin.md)
+
 ## webpack
 - [Webpack2引入的Tree Shaking技术](https://github.com/wisestcoder/blog/blob/master/webpack/treeShaking.md)
 
