@@ -6,7 +6,7 @@
 
 - [数据类型判断](https://github.com/wisestcoder/blog/blob/master/js//typeCheck.md)
 
-- [switch...case && if...else效率比较和优化](https://github.com/wisestcoder/blog/blob/master/js/judgeCompare.md)
+- [Switch...case && if...else效率比较和优化](https://github.com/wisestcoder/blog/blob/master/js/judgeCompare.md)
 
 - [Before和After函数](https://github.com/wisestcoder/blog/blob/master/js/beforeAndAfter.md)
 
@@ -32,11 +32,11 @@
 
 - [继承的6种方式](https://github.com/wisestcoder/blog/blob/master/js/inherit.md)
 
-- [js装逼技巧](https://github.com/wisestcoder/blog/blob/master/js/jsZhuangBi.md)
+- [Js装逼技巧](https://github.com/wisestcoder/blog/blob/master/js/jsZhuangBi.md)
 
 - [Object.assign详解](https://github.com/wisestcoder/blog/blob/master/js/objectAssign.md)
 
-- [promise实现](https://github.com/wisestcoder/blog/blob/master/js/promise.md)
+- [Promise实现](https://github.com/wisestcoder/blog/blob/master/js/promise.md)
 
 - [Object.defineProperty用法详解](https://github.com/wisestcoder/blog/blob/master/js/object_defineProperty.md)
 
@@ -55,7 +55,7 @@
 - [Babel-preset-es2015](https://github.com/wisestcoder/blog/blob/master/babel/babel_preset_es2015.md)
 
 ## react
-- [react开发注意事项](https://github.com/wisestcoder/blog/blob/master/react/attention.md)
+- [React开发注意事项](https://github.com/wisestcoder/blog/blob/master/react/attention.md)
 
 - [PureRenderMixin](https://github.com/wisestcoder/blog/blob/master/react/pureRenderMixin.md)
 
@@ -70,23 +70,25 @@
 ## webpack
 - [Webpack2引入的Tree Shaking技术](https://github.com/wisestcoder/blog/blob/master/webpack/treeShaking.md)
 
+- [打包时清除console](https://github.com/wisestcoder/blog/blob/master/webpack/removeConsole.md)
+
 ## rxjs
 - [普通的观察者模式与Rxjs中Observable的不同](https://github.com/wisestcoder/blog/blob/master/rxjs/compare_observable.md)
 
 ## git
-- [git常用命令](https://github.com/wisestcoder/blog/blob/master/git/command.md)
+- [Git常用命令](https://github.com/wisestcoder/blog/blob/master/git/command.md)
 
 ## node
-- [node下的几种文件路径处理](https://github.com/wisestcoder/blog/blob/master/node/nodePath.md)
+- [Node下的几种文件路径处理](https://github.com/wisestcoder/blog/blob/master/node/nodePath.md)
 
-- [node模块讲解](https://github.com/wisestcoder/blog/blob/master/node/nodeCollect.md)
+- [Node模块讲解](https://github.com/wisestcoder/blog/blob/master/node/nodeCollect.md)
 
-- [npm link命令解析](https://github.com/wisestcoder/blog/blob/master/node/npmLink.md)
+- [Npm link命令解析](https://github.com/wisestcoder/blog/blob/master/node/npmLink.md)
 
 - [怎么编写一个node静态资源服务器](https://github.com/wisestcoder/blog/blob/master/node/staticServer.md)
 
 ### npm
-- [package-lock.json的作用](https://github.com/wisestcoder/blog/blob/master/npm/package-lock.md)
+- [Package-lock.json的作用](https://github.com/wisestcoder/blog/blob/master/npm/package-lock.md)
 
 ## 其他
 - [缓存算法](https://github.com/wisestcoder/blog/blob/master/others/cacheAlgorithm.md)
