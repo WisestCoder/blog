@@ -72,6 +72,8 @@
 - [react实现多皮肤管理](https://github.com/wisestcoder/blog/blob/master/react/multipleSkin.md)
 
 ## webpack
+- [如何开发一个webpack插件](https://github.com/wisestcoder/blog/blob/master/webpack/plugin.md)
+
 - [Webpack2引入的Tree Shaking技术](https://github.com/wisestcoder/blog/blob/master/webpack/treeShaking.md)
 
 - [打包时清除console](https://github.com/wisestcoder/blog/blob/master/webpack/removeConsole.md)
