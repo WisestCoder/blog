@@ -167,7 +167,7 @@ plugins: [
 ]
 ```
 
-[点击查看完整的查看API介绍](http://www.css88.com/doc/webpack2/api/plugins/#%E6%8F%92%E4%BB%B6%20API)
+[点击查看完整的查看API介绍](http://www.css88.com/doc/webpack2/api/plugins/#%E6%8F%92%E4%BB%B6%20API)
 
 [插件模式](http://www.css88.com/doc/webpack2/development/plugin-patterns/)
 
