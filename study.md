@@ -1,6 +1,8 @@
 ## css
 - [元素垂直居中的几种方法](https://github.com/wisestcoder/blog/blob/master/css/alignCenter.md)
 
+- [inline-block的对齐问题](https://github.com/wisestcoder/blog/blob/master/css/inlineBlock.md)
+
 ## js
 - [严格模式的意义](https://github.com/wisestcoder/blog/blob/master/js/strict.md)
 
