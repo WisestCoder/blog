@@ -1,3 +1,6 @@
+## html
+- [html标签的lang属性](https://github.com/wisestcoder/blog/blob/master/html/lang.md)
+
 ## css
 - [元素垂直居中的几种方法](https://github.com/wisestcoder/blog/blob/master/css/alignCenter.md)
 
