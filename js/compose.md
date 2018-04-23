@@ -39,8 +39,17 @@ pointfree 模式能够帮助我们减少不必要的命名，让代码保持简�
 
 compose遵循的是从右向左运行，而不是由内而外运行。也就是说compose是从最后一个函数开始执行。
 ```javascript
+// 原生js实现
 var compose = function() {
   var args = arguments;
+  if (args.length === 0) {
+    return function(arg) {
+      return arg;
+    }
+  }
+  if (args.length === 1) {
+    return args[0];
+  }
   var start = args.length - 1;
   return function() {
     var i = start;
@@ -49,4 +58,28 @@ var compose = function() {
     return result;
   };
 };
+
+// redux最初版本
+function compose(...funcs) {
+  if (funcs.length === 0) {
+    return arg => arg;
+  }
+  if (funcs.length === 1) {
+    return funcs[0];
+  }
+  const last = funcs[funcs.length - 1];
+  const rest = funcs.slice(0, -1);
+  return (...args) => rest.reduceRight((composed, f) => f(composed), last(...args));
+}
+
+// redux改进版本
+function compose(...funcs) {
+  if (funcs.length === 0) {
+    return arg => arg;
+  }
+  if (funcs.length === 1) {
+    return funcs[0];
+  }
+  return funcs.reduce((a, b) => (...args) => a(b(...args)));
+}
 ```
