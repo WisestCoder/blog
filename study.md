@@ -74,6 +74,8 @@
 
 - [react实现多皮肤管理](https://github.com/wisestcoder/blog/blob/master/react/multipleSkin.md)
 
+- [极简react-router实现](https://github.com/youngwind/blog/issues/109)
+
 ## webpack
 - [如何开发一个webpack插件](https://github.com/wisestcoder/blog/blob/master/webpack/plugin.md)
 
