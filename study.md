@@ -47,6 +47,8 @@
 
 - [函数式编程详解](https://github.com/wisestcoder/blog/blob/master/js/function_programer.md)
 
+- [用setTimeout来模拟setInterval](https://github.com/wisestcoder/blog/blob/master/js/setInterval.md)
+
 ## dom
 - [两个节点之间可能存在哪些关系以及如何在节点之间任意移动](https://github.com/wisestcoder/blog/blob/master/dom/domRelation.md)
 
