@@ -45,6 +45,8 @@
 
 - [Object.defineProperty用法详解](https://github.com/wisestcoder/blog/blob/master/js/object_defineProperty.md)
 
+- [函数式编程详解](https://github.com/wisestcoder/blog/blob/master/js/function_programer.md.md)
+
 ## dom
 - [两个节点之间可能存在哪些关系以及如何在节点之间任意移动](https://github.com/wisestcoder/blog/blob/master/dom/domRelation.md)
 
