@@ -104,6 +104,8 @@
 
 - [怎么编写一个node静态资源服务器](https://github.com/wisestcoder/blog/blob/master/node/staticServer.md)
 
+- [socket.io中文文档](https://www.w3cschool.cn/socket/socket-1olq2egc.html)
+
 ### npm
 - [Package-lock.json的作用](https://github.com/wisestcoder/blog/blob/master/npm/package-lock.md)
 
