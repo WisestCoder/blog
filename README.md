@@ -109,6 +109,8 @@
 ### git
 - 2017-11-04 **»** [git常用命令](https://github.com/wisestcoder/blog/blob/master/git/command.md)
 
+- 2018-06-11 **»** [commit message规范](https://github.com/wisestcoder/blog/blob/master/git/commit.md)
+
 ### node
 - 2017-10-19 **»** [node下的几种文件路径处理](https://github.com/wisestcoder/blog/blob/master/node/nodePath.md)
 
