@@ -103,6 +103,8 @@
 
 - 2018-03-14 **»** [如何开发一个webpack插件](https://github.com/wisestcoder/blog/blob/master/webpack/plugin.md)
 
+- 2018-07-12 **»** [如何开发一个webpack加载器](https://github.com/wisestcoder/blog/blob/master/webpack/loader.md)
+
 ### rxjs
 - 2017-09-11 **»** [普通的观察者模式与Rxjs中Observable的不同](https://github.com/wisestcoder/blog/blob/master/rxjs/compare_observable.md)
 
