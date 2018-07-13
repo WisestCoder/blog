@@ -92,6 +92,8 @@
 
 - 2018-05-10 **»** [极简react-router实现](https://github.com/youngwind/blog/issues/109)
 
+- 2018-07-13 **»** [diff源码](https://github.com/wisestcoder/blog/blob/master/react/diff.md)
+
 ### webpack
 - 2017-09-13 **»** [webpack性能优化](https://github.com/wisestcoder/blog/issues/2)
 
