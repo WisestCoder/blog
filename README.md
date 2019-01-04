@@ -58,7 +58,7 @@
 - 2018-05-29 **»** [函数式编程详解](https://github.com/wisestcoder/blog/blob/master/js/function_programer.md)
 
 - 2018-06-05 **»** [用setTimeout来模拟setInterval](https://github.com/wisestcoder/blog/blob/master/js/setInterval.md)
-- 
+  
 - 2019-01-04 **»** [依赖注入](https://github.com/wisestcoder/blog/blob/master/js/ioc.md)
 
 ### dom
