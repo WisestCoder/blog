@@ -130,6 +130,7 @@
 
 ### npm
 - 2017-09-09 **»** [package-lock.json的作用](https://github.com/wisestcoder/blog/blob/master/npm/package-lock.md)
+- 2019-05-07 **»** [package.json文件解析](https://github.com/wisestcoder/blog/blob/master/npm/package-json.md)
 
 ### 其他
 - 2017-11-04 **»** [缓存算法](https://github.com/wisestcoder/blog/blob/master/others/cacheAlgorithm.md)
