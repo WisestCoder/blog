@@ -6,6 +6,8 @@
 
 #### 工作笔记 && 学习笔记，只是记录，并非所有都是原创，未标明参考地址的，请见谅
 
+#### 内推直接发简历到邮箱 mochen.du@tuya.com
+
 ### html
 - 2017-09-13 **»** [html标签的lang属性](https://github.com/wisestcoder/blog/blob/master/html/lang.md)
 
